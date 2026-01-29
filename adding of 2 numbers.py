@@ -4,3 +4,6 @@ b = 12
 # Adding two numbers
 res = a + b
 print(res)
+
+#output
+27
