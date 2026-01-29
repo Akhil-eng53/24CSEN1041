@@ -31,3 +31,9 @@ else:
         print("Compound Interest:", round(CI, 2))
     except OverflowError:
         print("Numbers are too large to calculate safely.")
+
+#output
+Enter Principal (P): 1200
+Enter Rate of Interest (R): 7
+Enter Time in years (T): 7
+Compound Interest: 726.94
