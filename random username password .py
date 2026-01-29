@@ -18,3 +18,10 @@ password = ''.join(secrets.choice(characters) for _ in range(length))
 print("\nAccount Created Successfully!")
 print("Username:", username)
 print("Password:", password)
+
+#output
+Enter your name: akhil
+Account Created Successfully!
+Username: akhil418
+Password: 44=*LfB4NgQ,
+
