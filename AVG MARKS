@@ -1,0 +1,16 @@
+# A list of marks
+marks = [85, 92, 78, 90, 88]
+
+# Calculate total and number of items
+total_sum = sum(marks)
+number_of_subjects = len(marks)
+
+# Calculate average
+average = total_sum / number_of_subjects
+
+print(f"Total Marks: {total_sum}")
+print(f"Average Mark: {average}")
+
+#OUTPUT
+Total Marks: 433
+Average Mark: 86.6
