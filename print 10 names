@@ -1,0 +1,22 @@
+# 1. Create a list of 10 names
+names = [
+    "Alice", "Bob", "Charlie", "Diana", "Ethan", 
+    "Fiona", "George", "Hannah", "Ian", "Julia"
+]
+
+# 2. Use a loop to print each name
+print("List of People:")
+for name in names:
+    print(f"- {name}")
+#output
+List of People:
+- Alice
+- Bob
+- Charlie
+- Diana
+- Ethan
+- Fiona
+- George
+- Hannah
+- Ian
+- Julia
